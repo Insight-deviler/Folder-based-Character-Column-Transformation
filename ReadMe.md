@@ -1,7 +1,7 @@
 ## Folder-based Character Column Transformation
 
 This script allows you to transform character columns of a dataset and save the transformed files in a specified folder.
-THIS CODE WAS CREATED FOR USING IT WITH THIS [CODE](https://github.com/Insight-deviler/anova-analysis) OR IT CAN BE USED AS STANDALONE BASED ON YOUR NEEDS
+THIS CODE WAS CREATED FOR USING IT WITH THIS [anova_analysis](https://github.com/Insight-deviler/anova-analysis) PACKAGE FOR DATA TRANSFORMATION OR IT CAN BE USED AS STANDALONE BASED ON YOUR NEEDS
 
 ## Model Dataset
 
