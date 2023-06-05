@@ -4,6 +4,13 @@ import pandas as pd
 # Define the folder path where your files are located
 folder_path = r'data'
 
+# Checking and creating a folder
+if not os.path.exists(folder_path):
+    os.mkdir(folder_path)
+    print(f'Creating a folder "{folder_path}"')
+else:
+    print(f"'{folder_path}' already exist proceeding with data transformation")
+
 # Load the dataset
 df = pd.read_excel('MODEL_DATA.xlsx')
 
