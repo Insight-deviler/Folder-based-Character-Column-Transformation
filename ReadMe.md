@@ -8,6 +8,7 @@ THIS CODE WAS CREATED FOR USING IT WITH THIS [anova_analysis](https://github.com
 
 Model dataset can be found in this [repo](https://github.com/Insight-deviler/Genotype-Character-Mean-Calculator) or given below
 - This is the input file:
+
         | GENOTYPE | REPLICATION | Days to Maturity | PLANT HEIGHT (cm) |
         |----------|-------------|------------------|-------------------|
         | G1       | R1          | 4                | 5                 |
@@ -16,7 +17,9 @@ Model dataset can be found in this [repo](https://github.com/Insight-deviler/Gen
         | G2       | R1          | 3                | 9.9               |
         | G2       | R2          | 6                | 7.5               |
 - This is the output file: 
+
         1. ```Days to maturity.xlsx```
+        
                 | GENOTYPE | r1 | r2 | r3 |
                 |----------|----|----|----|
                 | G1       |  3 | 15 | 40 |
@@ -25,7 +28,9 @@ Model dataset can be found in this [repo](https://github.com/Insight-deviler/Gen
                 | G4       | 75 | 16 | 10 |
                 | G5       | 65 | 24 | 23 |
                 | G6       | 26 | 58 | 12 |
-        2. ```PLANT HEIGHT (cm)```
+                
+        2. ```PLANT HEIGHT (cm).xlsx```
+               
                 | GENOTYPE | r1   | r2   | r3  |
                 |----------|------|------|-----|
                 | G1       | 5.4  | 6.0  | 9.1 |
